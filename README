@@ -1,0 +1,7 @@
+This ruby script demonstrates the apparently-absurd fact underlying the [Monty Hall problem](http://en.wikipedia.org/wiki/Monty_Hall_problem) 
+
+Running this yields:
+
+	$ ruby goats.rb 
+	By not switching doors, you win 33335304 times out of 100000000.
+	By switching doors, you win 66664697 times out of 100000000.
