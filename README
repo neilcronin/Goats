@@ -1,5 +1,7 @@
 This ruby script demonstrates the apparently-absurd fact underlying the Monty Hall problem (http://en.wikipedia.org/wiki/Monty_Hall_problem).
 
+There are three doors.  Two doors have a goat behind them.  One door has a new car behind it.  The contestant chooses a door.  Monty Hall opens a second door, revealing a goat.  The contestant must choose whether or not to switch between the two other doors.
+
 Running this yields:
 
 	$ ruby goats.rb 
