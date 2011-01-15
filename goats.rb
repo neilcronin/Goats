@@ -1,7 +1,7 @@
 num_of_successes_by_switching_doors = 0
 num_of_successes_by_not_switching_doors = 0
 
-num_of_attempts = 100000000
+num_of_attempts = 100
 
 (0..num_of_attempts).each do |i|
   
